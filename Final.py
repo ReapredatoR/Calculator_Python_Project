@@ -1,3 +1,4 @@
+#defining functions for each operation
 def add(a, b):
     return a + b
 
@@ -26,7 +27,7 @@ def terminate():
     print("Done. Terminating")
     exit()
 
-
+#defining function to select operation
 def select_op(choice):
     if choice != "#" and choice != "$" and choice in ["+", "-", "*", "/", "^", "%"]:
         a = input("Enter first number: ")
@@ -75,6 +76,7 @@ def select_op(choice):
         return
     else:
         print("Unrecognized operation")
+
 
 while True:
     print("Select operation.")
