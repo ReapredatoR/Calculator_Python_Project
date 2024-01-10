@@ -5,4 +5,4 @@ As Malinga Rajapaksha, I programmed this application using Python, showcasing my
 This project reflects my commitment to continuous learning and the application of programming concepts in real-world scenarios.
 
 - `final.py` fully coded by me
-- `History_feature.py` source code provided by the university to add a new feature, `history()`."
+- `History_feature.py` source code provided by the university to add a new feature, `history()`.
